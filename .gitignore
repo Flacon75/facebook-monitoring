@@ -1,0 +1,9 @@
+# Robocze pliki przebiegów FB MONITORING — zawierają odpowiedzi API (m.in. ad_snapshot_url z tokenem); nigdy nie commitować
+run/
+al_*.json
+board.json
+wz*.json
+wz*.txt
+snap_*.html
+img_*.jpg
+eskalacje.json
